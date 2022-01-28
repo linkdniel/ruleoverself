@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Rule Over Self"
-categories: book
-tags: syrus
----
-<img src="/media/ruleoverself.jpg" />
+# Rule Over Self
 
 During my time in graduate school at Harvard, I wrote down a series of private reflections and reminders outlining my philosophy for turning thought into action and becoming a better thinker. 
 
