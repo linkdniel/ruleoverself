@@ -1,4 +1,4 @@
-# Never Stop Learning
+# Rule Over Self: Never Stop Learning
 
 “Learning never exhausts the mind.”
 — Leonardo da Vinci
