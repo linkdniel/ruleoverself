@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Develop An Abundance Mindset"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Develop An Abundance Mindset
 
 “If I take 30 steps linearly, I get to 30. If I take 30 steps exponentially, I get to a billion.”
 — Ray Kurzweil
@@ -17,8 +12,6 @@ We used to have a negative bias when thinking about the future, because all the 
 From the Upper Paleolithic to 1900, according to Human Progress, a project of the Cato Institute, the average global life expectancy at birth stood at thirty years. People lacked access to basic products and services that we take for granted today. Millions of people died of poverty, war, and plagues. Whatever change did happen was mostly cyclical. An emperor ruled a land and was succeeded by another. The yield of crops changed based on the climate of the season, while droughts and floods took turns destroying them. There were periods of hope and periods of darkness.
 
 Zero-sum thinking was common in a world where people gained through taking value from others instead of creating it. When the world was trapped in a stationary mode where progress was limited, the people in that world were more preoccupied with dividing up the already existing pie rather than focusing on making a greater one.
-
-<img src="/media/abundance-mindset.jpg" />
 
 Most people lived a life of subsistence where existing beyond survival was an illusion. Despite working from sunrise to sunset, starvation for ordinary folks was common. Violence was a constant threat. Roman playwright Plautus described how man is a wolf to another man. In a world of separation rather than cooperation, a competitive mindset prevailed.
 
