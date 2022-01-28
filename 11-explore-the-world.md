@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Explore The World"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Explore The World
 
 “What should they know of England who only England know?”
 — Rudyard Kipling 
@@ -15,8 +10,6 @@ Years later, when he had already returned to Europe, Marco Polo was thrown into 
 Understanding the economy can seem a daunting undertaking. Although overly simplified, according to hedge fund manager Ray Dalio, the economy is a machine that is made up of parts and transactions that repeat and are driven by human nature. In our age of information abundance, it can be a full-time job just to read the news. We look at experts in awe, who use fancy language and complex statistics to explain what’s happening.
 
 In reality, the economy is far more complex, yet understanding the economy doesn’t necessarily require an advanced degree. If you understand productivity growth and the short-term and long-term debt cycle, you can track the economic movements and figure out what is happening. You can quickly learn basic concepts such as supply and demand, which put in context can be a powerful way to explain the economy.
-
-<img src="/media/explore-the-world.jpg" />
 
 After I first learned about investing, I realized that I needed to figure out where the market was going. And to do that requires an understanding of the economy. However, I was overwhelmed by the onslaught of information and data and the myriad of different opinions about where the world was heading.
 
