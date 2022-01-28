@@ -12,8 +12,6 @@ Syrus could have been upset about the situation that he was in, but he decided t
 
 For the rest of his life, Syrus would cherish his freedom and work towards unleashing his potential. He made up for lost time and delighted everyone around him. He began traveling and sharing his talent of miming and improvising. His theatrical performances, however, did not merely serve to amuse people. He also used his talent to instruct people and share useful maxims about life. In fact, he turned his performances into vehicles of political satire. He wrote lengthy essays, none of which survived to this day except fragments that are available in the form of small maxims.
 
-<img src="/media/prologue.jpg" />
-
 Even the mighty Caesar took notice of Syrus and invited him to celebrations upon winning his second election. This turned into one of his proudest days when he won the theatrical contest. Despite being a slave for so many years, he had found a way to unleash his potential. None of this would have been possible without liberty.
 
 Liberty stands at the core of human potential. Without freedom, we cannot flourish for very long. Imagine how former slave Harriet Tubman felt in her escape into freedom. “When I found I had crossed that line, I looked at my hands to see if I was the same person,” recounting on her newfound liberty. “There was such a glory over everything; the sun came like gold through the trees, and over the fields, and I felt like I was in Heaven.”
