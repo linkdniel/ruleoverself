@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Discover Your Purpose"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Discover Your Purpose
 
 “Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.”
 — Rumi
@@ -27,8 +22,6 @@ Why is purpose so difficult to find? Maybe we are too busy and have too many opt
 As Seneca advised, “Let all your activity be directed to some object, let it have some end in view.”
 
 The question that remains is how to identify your purpose. Asking yourself difficult questions gets you closer to an answer.
-
-<img src="/media/discover-purpose.jpg" />
 
 How will the world be different because of you? When your children ask what you have done with your life, what will be your answer? What makes you come alive? What do you love? What would you do if money wasn’t a problem? These are only some questions that you can ask yourself. Y Combinator founder Paul Graham recommends his students find a question that makes the world more interesting.
 
