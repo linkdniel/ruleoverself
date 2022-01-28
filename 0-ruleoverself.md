@@ -14,101 +14,99 @@ Develops more structured ways of thinking and learn how to think about thinking.
 
 ACTION. 
 Turns thoughts into action and unlocks the keys to transform your ideas into reality.
+edium)
 
-[Prologue](/prologue)
+Prologue
 
-[Introduction](/introduction)
+Introduction
 
-### [Part I: Learning](/learning)
-
-<img src="/media/part1-learning.jpg" />
-
-[Never Stop Learning](/never-stop-learning)
-
-[Escape Your Prison](/escape-prison)
-
-[Embrace Change](/embrace-change)
-
-[Adjust the Sail](/adjust-the-sail)
-
-[Kindle Your Imagination](/kindle-imagination)
-
-[Invest In Yourself](/invest-self)
-
-[Level Up](/level-up)
-
-[Examine Things Deeply](/examine-things-deeply)
-
-[Explore The World](/explore-the-world)
-
-[See The Forest, Not The Trees](/forest-trees)
-
-[Develop A Complete Mind](/develop-complete-mind)
-
-[Discover Your Purpose](/discover-purpose)
-
-[Learning Takeaway](/learning-takeaway)
-
-### [Part II: Thinking](/thinking)
-
-<img src="/media/part2-thinking.jpg" />
-
-[Watch Your Thoughts](/watch-thoughts)
-
-[Simplify](/simplify)
-
-[Challenge Yourself](/challenge-self)
-
-[Clear Your Mind](/clear-mind)
-
-[Be Like Water](/be-like-water)
-
-[Decide Positively](/decide-positively)
-
-[Build Your Body](/build-body)
-
-[Develop An Abundance Mindset](/abundance-mindset)
-
-[Choose Your Company Wisely](/choose-company-wisely)
-
-[Stay Humble](/stay-humble)
-
-[Think by Doing](/think-by-doing)
-
-[Thinking Takeaway](/thinking-takeaway)
-
-### [Part III: Action](/action)
-
-<img src="/media/part3-action.jpg" />
-
-[Take Initiative](/take-initiative)
-
-[Fight the Old Guard](/fight-old-guard)
-
-[Find Your Medium](/find-medium)
-
-[Face Your Fears](/face-fears)
-
-[Focus](/focus)
-
-[Fail Forward](/fail-forward)
-
-[Yin and Yang](/yin-yang)
-
-[Figure Out What Is Needed](/figure-needed)
-
-[Create Opportunities](/create-opportunities)
-
-[Cultivate Patience](/cultivate-patience)
-
-[Leverage Your Resources](/leverage-resources)
-
-[Never Give Up](/never-give-up)
-
-[Action Takeaway](/action-takeaway)
+Part I: Learning
 
 
-[Epilogue](https://note.link.com.de/epilogue)
+Never Stop Learning
+
+Escape Your Prison
+
+Embrace Change
+
+Adjust the Sail
+
+Kindle Your Imagination
+
+Invest In Yourself
+
+Level Up
+
+Examine Things Deeply
+
+Explore The World
+
+See The Forest, Not The Trees
+
+Develop A Complete Mind
+
+Discover Your Purpose
+
+Learning Takeaway
+
+Part II: Thinking
+
+
+Watch Your Thoughts
+
+Simplify
+
+Challenge Yourself
+
+Clear Your Mind
+
+Be Like Water
+
+Decide Positively
+
+Build Your Body
+
+Develop An Abundance Mindset
+
+Choose Your Company Wisely
+
+Stay Humble
+
+Think by Doing
+
+Thinking Takeaway
+
+Part III: Action
+
+
+Take Initiative
+
+Fight the Old Guard
+
+Find Your Medium
+
+Face Your Fears
+
+Focus
+
+Fail Forward
+
+Yin and Yang
+
+Figure Out What Is Needed
+
+Create Opportunities
+
+Cultivate Patience
+
+Leverage Your Resources
+
+Never Give Up
+
+Action Takeaway
+
+Epilogue
+
 
 ### More information
 
