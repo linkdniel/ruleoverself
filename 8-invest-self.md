@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Invest In Yourself"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Invest In Yourself
 
 “Knowledge makes a man unfit to be a slave.”
 — Frederick Douglass
@@ -27,8 +22,6 @@ Some of the oldest books are as applicable today as they were one thousand years
 Reading books can make you feel as if you are taking a trip, regardless of where you are, by forcing you to challenge your current thinking and imagine the impossible. They also increase your ability for conceptual thinking.
 
 However, it is not enough simply to read. Reading, in many ways, is like eating. If you only eat junk food, sooner than later the consequences will show. If you want to understand anything meaningful, you have to tackle something difficult. Granted, it’s daunting to read difficult material. It’s challenging and it feels like work at first. But like all things worthwhile, if it were easy, everyone would be doing it. It is not enough to read and it is not enough to read seemingly high-quality books. You need to read in a critical, skeptical, and alert fashion.
-
-<img src="/media/invest-self.jpg" />
 
 During my time as an undergraduate student at the London School of Economics, my professors assigned me entire books or chapters from several books every week… for a single class! It was the new normal for my reading diet. I was easily overwhelmed. Over time, however, I learned how to finish it by reading for hours, taking notes, forming connections, and enjoying the exercise. The more I read, the easier it was to handle and appreciate it. By tackling difficult readings, I challenged my thinking and expanded my intellect. Books enable you to explore something deeply in a way that no other media allows you to.
 
