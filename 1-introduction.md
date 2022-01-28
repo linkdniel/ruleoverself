@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Rule Over Self: Introduction"
-categories: 
-tags: syrus
----
+#Rule Over Self: Introduction
 
 “The true value of a human being is determined primarily by the measure and the sense in which he has attained liberation from the self.”
 — Albert Einstein
@@ -25,9 +20,6 @@ Thousands of years ago, the aristocratic Plato was expected to lead a life in po
 Have you ever questioned the nature of your reality? How we think of ourselves and the world around us determines it. Every day we are bombarded with thousands of thoughts — some are beneficial, others are harmful, and all control how we experience life. These rules and assumptions that we impose on ourselves while navigating through the world shape our existence.
 
 Plato illustrated that as long as we don’t question the nature of our reality, we remain trapped by it, our self-limitations stunting our growth as individuals. Why do we pursue concepts such as marriage, but never question what it means in today’s world or how its significance changed since ancient times?
-
-<img src="/media/introduction.jpg" />
-
 
 Instead of forging our path, we chase the phantoms of those already laid out for us by others. Consider the many traditions that you have adopted, which have been passed down from generation to generation. We often choose ignorance, turning a blind eye to all of the surrounding factors that stop us from moving forward.
 
