@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Cultivate Patience"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Cultivate Patience
 
 “Genius is eternal patience.”
 — Michelangelo
@@ -21,8 +16,6 @@ The revolutionary governments, however, were short-lived. The revolutions had th
 There are many reasons why 1848 failed, but no matter how hopeful, a revolution always harbors the chance of failure. Indeed, the probability of successfully escaping the status quo through revolution is low. In the case of the American Revolution, if the resistance had been stamped out early, things would have returned to how they were before the war.
 
 Since a revolution is a process, it takes time. It rarely succeeds at the first attempt. But that’s alright, because a failed revolution can still bear the seeds of success later on.
-
-<img src="/media/cultivate-patience.jpg" />
 
 Careful not to be impatient when it comes to seeing change manifest into reality. We celebrate a new habit on social media only a week after beginning it. We celebrate revolutions that challenge years of dictatorship as a wave of democracy. We expect our company to be the next billion-dollar business after the first round of funding.
 
