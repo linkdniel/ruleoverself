@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Embrace Change"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Embrace Change
 
 “Change is the only constant.”
 — Heraclitus
@@ -27,8 +22,6 @@ However, change itself does not guarantee growth. The weather and seasons change
 Imagine a caterpillar transforming into a butterfly. During metamorphosis, the new cells that appear in its body are destroyed as its immune system rejects them. The cells multiply faster than they’re destroyed, however, and the caterpillar’s immune system becomes overwhelmed. Eventually, the collection of new cells finally builds the butterfly.
 
 Like the caterpillar’s immune system, we often resist a transition into our new self. As creatures of habit, we are hesitant to change because it’s uncomfortable. Or we are impatient and expect things to happen faster than they can occur.
-
-<img src="/media/embrace-change.jpg" />
 
 Consider this analogy by historian Niall Ferguson: “Mankind sails forward through time in seas that are sometimes calm, sometimes stormy. At times it seems almost becalmed, at other times it can do twelve knots. Depending on who captains the ship, it sometimes veers to port, sometimes to starboard. When it changes direction, the turn is generally slow.”
 
