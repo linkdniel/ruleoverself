@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Simplify"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Simplify
 
 “Simplicity is the ultimate sophistication.”
 — Leonardo da Vinci
@@ -21,8 +16,6 @@ Consider Occam’s razor, a generic heuristic to help choose between different k
 When people add unnecessary complexity to a problem, often they don’t understand it. We overcomplicate our thinking. Introducing unnecessary or improbable variables is what prevents clear thinking. When it comes to our thinking, we must look at our swirl of thoughts and get to the essence of them.
 
 As an example, when I start writing, it’s a messy process. As I figure out exactly what I want to convey, I realize I am adding unnecessary complexity. However, since writing is largely about editing, the more I simplify my writing, the better it becomes. The same is true for computer science, where every problem has multiple solutions but it is always the simplest one that wins.
-
-<img src="/media/simplify.jpg" />
 
 One way to simplify our thinking is through what Italian economist Vilfredo Pareto called the “Pareto principle,” also known as the 80/20 rule. Pareto observed that 20% of the people owned 80% of the land in Italy. Oddly, we expect all causes to have the same effect, when reality is different.
 
