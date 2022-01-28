@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Rule Over Self: Part 1 - Learning"
-categories: 
-tags: syrus learning
----
+# Rule Over Self: Part 1 - Learning
 
 “A real education is a liberation.”
 — Friedrich Nietzsche
@@ -11,8 +6,6 @@ tags: syrus learning
 Learning is the prerequisite for thinking and doing. We grow because of our ability to learn.
 
 Somewhere along the way, however, we stop learning. Maybe it was in school because of the process of memorizing and repeating content that our teachers imposed on us. Maybe we didn’t understand something and fell behind. Maybe we are still learning, just not as much as we would like to.
-
-<img src="/media/learning.jpg" />
 
 But we need to love learning to transform information into knowledge, and ultimately into wisdom. We need to discover the many different ways of learning that are available beyond the ones we know. Uncovering the methods of learning is indispensable for our capacity to grow. In an ever-changing world, our ability to learn is our primary advantage for it allows us to adapt. As investor Charlie Munger put it, “You can only progress in life when you learn the method of learning.”
 
