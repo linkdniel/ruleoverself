@@ -1,9 +1,4 @@
----
-layout: post
-title:  "See The Forest, Not The Trees"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: See The Forest, Not The Trees
 
 "A person who does not know the history of the last 3,000 years wanders in the darkness of ignorance, unable to make sense of the reality around him.”
 — Johann Wolfgang von Goethe
@@ -19,8 +14,6 @@ In 1908, Henry Ford introduced the Model T for $850. The modern electric equival
 Interestingly, the electric car is re-emerging in our time. History is an indispensable teacher to put our future into context. Being knowledgeable of history helps you to avoid past mistakes. Learning from others is essential. In the field of artificial intelligence, for example, after one self-driving car makes a mistake, the entire fleet learns from it.
 
 The wise man, as Prussian statesman Otto von Bismarck declared, learns from the mistake of others. While the past cannot predict the future, knowing the past can guide you in building the future. The future is grounded in reality, and reality is a product of history. History simply puts information into a broader context. Preparing for the future requires knowledge from the past.
-
-<img src="/media/forest-trees.jpg" />
 
 I learned firsthand the importance of history at LSE, while studying under prolific historian Niall Ferguson. In his class on Western Ascendancy, teaching the mainsprings of Western power, he captivated students, making complex matters about the global economy accessible. He got students to start thinking about the big picture. It unleashed in me an excitement for history that I have not lost.
 
