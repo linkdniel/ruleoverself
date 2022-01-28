@@ -2,7 +2,7 @@
  
 “The great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude."
 — Ralph Waldo Emerson
- 
+
 In 1841, Ralph Waldo Emerson published an essay that would inspire generations of thinkers to rely on themselves. In his essay entitled Self-Reliance, he encouraged his readers to trust their own voices instead of giving too much weight to the voices of others. “Trust thyself,” he exclaimed. “Nothing can bring you peace but yourself.” What distinguished great thinkers from everyone else, he claimed, was that they did not disregard their own thoughts.
 
 He argued that being yourself in a world that is constantly trying to make you something else is one of the greatest accomplishments. But it is not immediately obvious how to think for yourself.
