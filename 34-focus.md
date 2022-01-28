@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Focus"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Focus
 
 “The mind that engages in subjects of too great variety becomes confused and weakened.”
 — Leonardo da Vinci
@@ -23,8 +18,6 @@ When Steve Jobs returned to Apple, he was shocked to see the extensive list of p
 At Apple’s Worldwide Developers Conference in 1997, Jobs shared his take on the matter: “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are.”
 
 What do we do so often? We get distracted. We increase our options and never get to focus as a result. We are not willing to sacrifice to avoid the fear of missing out. Focus means refusing temptation. As an entrepreneur, it is tempting to do a lot of things at the same time. However, I have realized that when I do this, I fail to achieve any form of excellence.
-
-<img src="/media/focus.jpg" />
 
 I realized that creative work often requires a chunk of time to be blocked off, so I built this as a habit. If I jump around from one task to the next, I am not really applying my time in a focused way. It is obvious that I have done a lot of things, but what have I created? Creative work often requires leaps in imagination and insights that are hard to reach if you are constantly distracted.
 
