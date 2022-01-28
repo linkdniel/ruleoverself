@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Decide Positively"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Decide Positively
 
 “Nothing is more difficult and therefore more precious than to be able to decide.”
 — Napoleon Bonaparte
@@ -15,8 +10,6 @@ As rash as his boss thought his decision was, Bezos took time to ponder the diff
 Making decisions can be paralyzing. The problem is we often have too many choices. This is what American psychologist Barry Schwartz calls the paradox of choice. The more choices we have, the harder it is to decide.
 
 When we fail to make a decision and miss an opportunity, we regret our decision. We wish that we could turn back the clock. It’s an unproductive rumination. As author Tim Ferriss says, regret is past-tense decision making. We can’t let past decisions interfere with our future. We can learn from them without trying to turn back time. Once you make a decision, it is best to stand behind that decision. As we are the product of our choices, our life will be more meaningful when we make a series of good ones.
-
-<img src="/media/decide-positively.jpg" />
 
 Jeff Bezos developed a framework to minimize regret. Imagine you are 80 years old and you are looking back at your life. At that age you want to have minimized your regrets. Whatever decision you are pondering right now, ask yourself whether you will regret the decision when you look back at your life. The worst kind of regret comes from inaction.
 
