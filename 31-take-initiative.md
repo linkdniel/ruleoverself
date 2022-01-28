@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Take Initiative"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Take Initiative
 
 “Concerning all acts of initiative (and creation), there is one elementary truth, the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then Providence moves too.”
 — William Hutchison Murray
@@ -21,8 +16,6 @@ Before joining the American cause, Lafayette needed to push through resistance a
 Abroad, his commission into the Continental Army involved more than just taking a large ship and loading it with men and supplies. At the request of General George Washington, Congress had stopped giving military commissions to foreigners. Unattached to the country and ignorant of the language, Washington argued that foreigners were ill-suited to give orders to soldiers. Only once his friends exaggerated the importance of his mission was he admitted.
 
 We are all facing similar obstacles when we pursue our dreams. Think about your relationship with obstacles. Do you shrink when you are confronted with doubt? Instead of wondering whether we should give up our mission, what if we spent that time and energy working on following through?
-
-<img src="/media/take-initiative.jpg" />
 
 Upon landing in America, Lafayette quickly proved himself worthy on the battlefield. And his devotion to the cause of liberty extended beyond his commission into the Continental Army. Upon returning to France, he lobbied alongside Benjamin Franklin to send additional troops to America. Even Washington, who was initially against giving military commissions to foreigners, praised Lafayette for having a large share of bravery and military ardor.
 
