@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Clear Your Mind"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Clear Your Mind
 
 “Why are you so enchanted by this world, when a mine of gold lies within you?”
 — Rumi
@@ -19,8 +14,6 @@ In Buddhism, a “monkey mind” is synonymous for a restless, confused, and unc
 On his last days fighting cancer, Buddhist spiritual leader Rangjung Rigpe Dorje showed everyone the inner calmness that he had despite fatal external circumstances. When visitors asked him about his state, he always said that he didn’t experience pain. Even in his last days, he was remembered for his kindness and how the welfare of those around him was more important than his own. The only way he was able to feel that way is because he was a deeply meditative person who emptied his mind and would not allow anything to upset him.
 
 Consider the oldest and simplest way to clear your mind: meditation. We need to develop a non-judgmental attitude when we watch our thoughts. Instead of paying attention to every single thought, allow them to come and go.
-
-<img src="/media/clear-mind.jpg" />
 
 When hedge fund manager Ray Dalio speaks about meditating, he is filled with joy, as he says it makes him feel like a ninja during a fight. It keeps him calm, centered and creative, helping him tackle problems in slow motion. When he is stressed during market hours he meditates, letting it open his mind and create equanimity.
 
