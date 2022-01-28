@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Be Like Water"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Be Like Water
 
 “Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions — not outside.”
 — Marcus Aurelius
@@ -31,8 +26,6 @@ When Spanish Conquistador Hernando Cortés landed on the shores of the Yucatan i
 On his journey to master Kung Fu, Bruce Lee’s mentor, Wing Chun Yip Man, suggested not to assert himself against nature or risk being in frontal opposition to problems. Bruce Lee was trying to learn the lesson through meditation and practicing, yet he failed to make progress. One day, he decided to take a break and go sailing. While sailing, he punched his fist into the water to vent his anger. In a private letter that is now available in Bruce Lee: Artist of Life, he wrote:
 
 Right then — at that moment — a thought suddenly struck me; was not this water the very essence of Kung Fu? Hadn’t this water just now illustrated to me the principle of Kung Fu?… This water, the softest substance in the world, which the smallest jar could contain, only seemed weak. In reality, it could penetrate the hardest substance in the world. That was it! I wanted to be like the nature of water.
-
-<img src="/media/be-like-water.jpg" />
 
 The goal of mastering our emotions is to obtain a state of equanimity. Equanimity is defined as a balanced mind and is synonymous with mental calmness, composure, and evenness of temper. The Greeks called it apatheia, and the Stoics referred to it as an Inner Citadel, where no external event can disturb you. For Epicureans, it was ataraxia, which means “peace of mind.” For Buddhists, it’s Upekkha, or having an evenness of mind. Voltaire explained it as a quiet courage in the midst of tumult and serenity of soul in danger.
 
