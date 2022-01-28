@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Figure Out What Is Needed"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Figure Out What Is Needed
 
 “Do not follow where the path may lead. Go instead where there is no path and leave a trail.”
 — Ralph Waldo Emerson
@@ -25,8 +20,6 @@ Sometimes we are stalling and lose enthusiasm. Despite working hard, we are not 
 How do we find the catalyst that can accelerate our growth? It is not very clear what the catalyst is until we look back and recognize it. Figuring out the missing element is an art that we discover through trial and error.
 
 Like Seabiscuit, we need to change our environment. As Seneca advised, change of place imparts new vigor to the mind. It is often not because of our lack of ability that we can’t do what we want to do, but because something is missing and we don’t know what it is. It is often by experimenting with different possible solutions that we find what we were missing. If we keep doing the same things over and over again without changing anything, we cannot expect different results. We need to focus on our goal and not get married to any one potential path that we think we need to travel. There are many different roads to get to the finish line.
-
-<img src="/media/figure-needed.jpg" />
 
 It is easy to get wrapped up in our thoughts or listen to the advice of other people. Instead, we need to ask ourselves what is missing in any given situation that we’re in. If we can pinpoint that, we can begin to search for the catalyst that will help us grow.
 
