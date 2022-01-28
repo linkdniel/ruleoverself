@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Examine Things Deeply"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Examine Things Deeply
 
 “Philosophy begins in wonder. And, at the end, when philosophic thought has its best, the wonder remains.”
 — Alfred North Whitehead
@@ -17,8 +12,6 @@ When was the last time you thought about philosophy as a useful endeavor? If a t
 Philosophy need not and should not be something that is abstract and useless. American essayist Henry David Thoreau likened philosophy’s primary function “to solve some of the problems of life, not only theoretically, but practically.”
 
 In the flood of the media and internet, our inner voice can get drowned. There are thousands of voices ready to tell us what to do. Philosophy helps us to trust ourselves in that way. It is about examining things at a deeper level. By changing existing rules or traditions, we are taking the first step to examine things deeply.
-
-<img src="/media/examine-things-deeply.jpg" />
 
 Consider this story of the five monkeys in a cage as a metaphor for how learning can be impaired when we do not think for ourselves. When scientists threw five monkeys into a cage, the animals lived a boring life of subsistence with enough food and water to survive. One day, the scientists installed a ladder that reached to a stalk of bananas at the top. When the first monkey eagerly tried to climb the ladder, the scientists soaked the monkey, and all the other animals who were standing nearby watching, with cold water.
 
