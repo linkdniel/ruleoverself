@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Escape Your Prison"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Escape Your Prison
 
 “Those who are unaware they are walking in darkness will never seek the light.”
 — Bruce Lee
@@ -33,9 +28,6 @@ The signs are gradual, which make them painfully difficult to detect. Change is 
 This is essentially the prelude to the American Revolution. The colonists only retaliated once they could no longer bear being ruled by the British Crown. The collective level of pain didn’t surpass the threshold for action for years. The colonists avoided talking extensively and openly about how to challenge the status quo. It was many years before the collective awareness at last shifted. Once this happened, they overturned their adversity and fought for a new future. One year after Henry’s speech, the Declaration of Independence was signed and the revolution started.
 
 It is imperative that we seek the clues that lead us to awareness. Once we find the culprit behind what’s going wrong, we can assemble a response. We can start to gain awareness by looking at ourselves from a critical standpoint. Start to locate the blind spots that are shielding the range of possibilities that are available. With a subjective lens, we cannot fathom alternatives or imagine a different path.
-
-<img src="/media/escape-prison.jpg" />
-
 
 In 2002, during a Pentagon news briefing in the wake of 9/11, U.S. Secretary of Defense Donald Rumsfeld was asked why there was a lack of evidence linking the Iraqi government with the supply of mass destruction weapons to terrorist groups.
 
