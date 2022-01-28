@@ -1,9 +1,5 @@
----
-layout: post
-title:  "Rule Over Self: Prologue"
-categories:
-tags: syrus
----
+# Rule Over Self: Prologue
+
 
 “It is better to die than to lose one’s freedom.”
 — Leonardo da Vinci
