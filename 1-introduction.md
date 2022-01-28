@@ -1,4 +1,4 @@
-#Rule Over Self: Introduction
+# Rule Over Self: Introduction
 
 “The true value of a human being is determined primarily by the measure and the sense in which he has attained liberation from the self.”
 — Albert Einstein
