@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Build Your Body"
-categories: essay
-tags: syrus thinking
----
+#Rule Over Self: Build Your Body
 
 “Whether you think you can or can’t. You’re right.”
 — Henry Ford
@@ -15,8 +10,6 @@ From that point on, Teddy lived what he called a “strenuous life.” At Harvar
 A lot of science backs up the idea that walking spurs creativity. Steve Jobs would often take prospective employees on long walks. When someone asked entrepreneur Richard Branson what increased his productivity, his answer was exercising.
 
 Sleep is another important thing that influences our thinking. Chess grandmaster Magnus Carlsen often emphasizes the importance of sleep and physical exercise for chess practice and significant matches. When we have a good night’s rest, we can function better, have more creativity, and get more done.
-
-<img src="/media/build-body.jpg" />
 
 In a lecture to students in Hong Kong, Jack Ma, co-founder of Alibaba, told students that our perspective often changes if we think just for a while longer. “Things change if you ponder for another 2 hours,” he told students. “Whenever I meet trouble or difficulty, I will go to sleep and then think about the issue in the morning.”
 
