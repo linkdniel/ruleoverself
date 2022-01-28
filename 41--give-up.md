@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Never Give Up"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Never Give Up
 
 “When you have exhausted all possibilities, remember this: you haven’t.”
 — Thomas Edison
@@ -43,8 +38,6 @@ However, if we are unsure of where we want to go, persistence is very difficult.
 Of course, persistence doesn’t mean that you should bang your head against the wall. When something isn’t working, it’s time to try something else. Iteration and prototyping are essential components of growth. Avoid mixing up persistence with stubbornness. Never giving up is not equal to staying on the same road all the time.
 
 As persistence is most needed in times of adversity, let’s remember Athenian orator Demosthenes and learn from his example of how to turn any trial into triumph.
-
-<img src="/media/never-give-up.jpg" />
 
 When Demosthenes was born, he had a speech impediment which made his life difficult. People laughed at him, but he persisted through the bad times. Inspired by a speech that he had watched, Demosthenes worked with tremendous effort to mold a new image that would transcend his natural disadvantages. He wanted to be able to give a speech that was as great as the one he had watched as a kid.
 
