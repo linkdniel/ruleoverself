@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Leverage Your Resources"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Leverage Your Resources
 
 “When without resources, depend on resourcefulness.”
 — Sun Tzu
@@ -17,8 +12,6 @@ When the British descended on New York with thousands of soldiers, they were con
 Under cover of darkness, Washington relocated his troops from Brooklyn Heights to New York, saving thousands of troops in the process. During the following weeks, there were a series of battles, but Washington always skillfully retreated when circumstances were not in his favor.
 
 It wasn’t a pretty strategy, but it was an effective one. Nevertheless, as armies headed into winter quarters, Washington’s situation was still far from good. The British had sent more troops, and Washington’s army reduced to about 3,000 soldiers. Meanwhile, food supplies and pay for soldiers were at an all-time low, and soldier enlistments would run out by the end of the year.
-
-<img src="/media/leverage-resources.jpg" />
 
 During that time, Thomas Paine enlisted as a soldier and wrote a series of essays to encourage his fellow soldiers. “These are the times that try men’s souls,” he wrote. “We have this consolation with us, that the harder the conflict, the more glorious the triumph.”
 
