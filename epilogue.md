@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Rule Over Self: Epilogue"
-categories: 
-tags: syrus action
----
+# Rule Over Self: Epilogue
 
 “Rule your mind or it will rule you.”
 — Horace
@@ -15,8 +10,6 @@ We have learned the importance of learning, thinking, and doing, and the interco
 Where does growth comes from? It is an important question that has many potential answers. The hope for growth is what gets us up in the morning and improve our life, whether we want to attain enlightenment or push our ideas forward. Even those of us who already are successful still strive to grow in the future. When we grow, we challenge what we can achieve and go beyond what we see as currently possible.
 
 The thesis we posed at the beginning of the book was that our thinking can make us or it can break us. We entrap ourselves in our thinking by the way we think. To some extent we all live in our own world that limits our potential. By applying the lessons contained in this book, we can find a way to escape from our mental prison. It requires a continuous effort that goes beyond this book. It’s up to you to continue the work.
-
-<img src="/media/epilogue.jpg" />
 
 While initially written as reminders to myself and expanded into chapters for this book, the elements contained in this book are meant to be a starting point to reflect on your life. I’m still struggling how to live within purpose, how to attain equanimity, develop an independent spirit, and have more bias for action. Trust me, there are a lot of things I still have to learn. Writing this book was an exercise in crystallizing my thoughts and developing a blueprint that can help me to grow in my own life.
 
