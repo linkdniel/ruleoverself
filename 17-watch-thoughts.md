@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Watch Your Thoughts"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Watch Your Thoughts
 
 “No problem can withstand the assault of sustained thinking.”
 — Voltaire
@@ -13,9 +8,6 @@ When English political philosopher John Locke published his Two Treatises of Gov
 Not many paid attention to Locke’s ideas, especially in England where he was from. The world that Locke lived in was one of violence and war, of religious and political intolerance. Locke believed that people had the ability to reason and avoid tyranny. He thought that all were created equal and that a ruler gained legitimacy through consent of the people. He thought it was the duty of the government to protect its people. At all times, the people retain the right to overthrow the government if the government fails to deliver on its promises.
 
 About a hundred years later, his work influenced how the American Founding Fathers would think of setting up a new governing structure. His ideas of how he thought about the world influenced how an entire country was built. This is why the American Constitution has its many provisions. In his Two Treatises, Locke insisted on the separation of powers that influenced the American checks and balances system. He was concerned about natural born rights, which influenced America’s inalienable rights. It was he who liberated us from tradition and authority. French philosopher Voltaire appropriately called him the “Hercules of metaphysics.”
-
-<img src="/media/watch-thoughts.jpg" />
-
 
 We need to trust in the power of thinking. Of all the time we spend thinking every day, we hardly give those thoughts a second glance. When things go wrong, we blame circumstances or other people. We rarely blame our faulty thinking. The way we think determines our reality in the long term. As James Allen puts it in As a Man Thinketh, “a man is literally what he thinks, his character being the complete sum of all his thoughts.” French poet Victor Hugo distinguished between visible and invisible labor. The man that is absorbed in thought is capable of doing invisible labor. Sometimes one day of thinking can save you thirty days of moving dirt.
 
