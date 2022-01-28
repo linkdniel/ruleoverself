@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Create Opportunities"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Create Opportunities
 
 “Small opportunities are often the beginning of great enterprises.”
 — Demosthenes
@@ -37,8 +32,6 @@ Anna Eleanor had a difficult upbringing. By the time she was ten years old, she 
 A few years later, she met Franklin Roosevelt, whom she later married. After her husband had a polio attack, she helped him with his political campaign. When her husband became President of the United States, she transformed the role of the first lady by assuming a more active role in public life. She connected with people well. She took this opportunity to be the President’s eyes and ears. She leveraged mass media and showed the world that the first lady was an important role. Eleanor could have complained about her misfortune, but chose to focus on the opportunity that she had and made the most of it.
 
 And if you aren’t given any opportunities or can’t seem to find one that you want to take, you can always create your own. Sometimes all it takes to create opportunities is look around you and help others in your immediate environment.
-
-<img src="/media/create-opportunities.jpg" />
 
 As an industrialist in Germany during World War II, Oskar Schindler sheltered over a thousand Jews by employing them in his factory. Since he had a contract to sell kitchenware, he began to hire Jews as the Nazi government targeted them. He protected them and argued that they were essential for the war efforts. When the situation intensified, he bribed officials in return for releasing Jews that were meant to go to a concentration camp. Over the course of his life, he saved over a thousand lives.
 
