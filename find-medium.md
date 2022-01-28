@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Find Your Medium"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Find Your Medium
 
 “The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.”
 — Steve Jobs
@@ -23,8 +18,6 @@ By avoiding competition, they served an exclusive audience. “We are beginning 
 Over time they captivated their viewers and expanded to a wider audience. Today, their art is known as Impressionism. Each piece sells for amounts that their creator’s would have imagined impossible.
 
 These days, with the help of the internet, the price of accomplishing anything has steadily fallen, and that raises the number of competitors. To create something of value requires ingenuity. So how do you find your niche to stand out from the crowd?
-
-<img src="/media/find-medium.jpg" />
 
 Like Monet and his friends, we need to find a niche that leverages our strengths and interests. Ideally, we should provide value in a way that avoids us competing with anyone. The most competitive markets are often the most saturated and offer the least amount of return. Finding your niche is about understanding what you can offer for what the world currently needs.
 
