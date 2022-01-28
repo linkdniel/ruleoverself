@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Fight The Old Guard"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Fight The Old Guard
 
 “You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”
 — Buckminster Fuller
@@ -25,8 +20,6 @@ As the brothers explained later, it was “the first time in the history of the 
 Orville sent a telegram to his father that day. “Success. Four flights Thursday morning all against twenty-one mile wind. Started from level with engine power alone. Average speed through air, thirty-one miles. Longest 57 seconds. Inform press. Home Christmas.”
 
 Their younger brother pitched the news to The Dayton Journal, a local news editor, but was rejected. “If it had been fifty-seven minutes,” the editor reasoned, “then it might have been a news item.” The New York Times and The Washington Post did not find the story newsworthy, either. French newspapers called it a bluff. Nobody believed that two brothers from Ohio had solved the problem of flight.
-
-<img src="/media/fight-old-guard.jpg" />
 
 The Paris edition of The New York Herald in February 10, 1906 wrote, “The Wrights have flown, or they have not flown. They possess a machine, or they do not possess one. They are in fact either fliers or liars. It is difficult to fly. It’s easy to say, ‘We have flown.’”
 
