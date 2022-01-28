@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Develop A Complete Mind"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Develop A Complete Mind
 
 “Study the science of art; study the art of science. Learn how to see. Realize that everything connects to everything else.”
 ― Leonardo da Vinci
@@ -21,8 +16,6 @@ While most know Frederick Douglass for his escape from slavery and as a politica
 Art is a state of being, according to Robert Henri. As he defined it in The Art Spirit, “Art is simply a result of expression during right feeling. It’s a result of a grip on the fundamentals of nature, the spirit of life, the constructive force, the secret of growth, a real understanding of the relative importance of things, order, balance. Any material will do. After all, the object is not to make art, but to be in the wonderful state which makes art inevitable.”
 
 Art pushes the envelope. According to inventor Ray Kurzweil, the world of art is ahead of the world of science in appreciating the power of human perception. Or as Leonardo da Vinci put it, art is the queen of all sciences communicating knowledge to all the generations of the world.
-
-<img src="/media/develop-complete-mind.jpg" />
 
 Of course we also need to study the sciences. Cherishing both arts and sciences provides us with a fuller understanding. Nature is one of life’s greatest teachers. There are so many secrets in nature that we have yet to be discovered.
 
