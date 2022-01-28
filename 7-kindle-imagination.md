@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Kindle Your Imagination"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Kindle Your Imagination"
 
 “We have it in our power to begin the world over again.”
 — Thomas Paine
@@ -17,8 +12,6 @@ We have all been in situations where everything we have worked on has collapsed.
 After growing bored with life in New York, Harvey Milk moved across the country to open a camera shop in The Castro, San Francisco’s gay neighborhood and arguably the gay epicenter of the world. Harvey had known he was gay since high school, but had kept it private until reaching the Bay Area. Milk was interested in becoming politically active, but being openly out in and in a public position was not encouraged by the political climate.
 
 He wouldn’t let that stop him. He spoke up and became politically active. In 1977, his efforts paid off; he won a seat on the San Francisco Board of Supervisors, becoming the city’s first openly gay officer. He made the impossible possible and became an inspiration to the entire LGBT community. Despite his tragic assassination one year after his inauguration, Harvey Milk remains a symbol for activism and a champion of civil rights for homosexuals.
-
-<img src="/media/kindle-imagination.jpg" />
 
 Possibilities — it’s what film director James Cameron calls the moment when the fantastic becomes the possible. When opportunities open up and a new world opens. The first step in kindling your imagination is to not let past or preconceived notions interfere.
 
