@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Challenge Yourself"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Challenge Yourself
 
 “I never allow myself to have an opinion on 
  anything that I don’t know the other side’s argument better than they do.”
@@ -22,8 +17,6 @@ While walking, Narcissus came upon a pool of water. As he gazed into the water, 
 Sometimes we are Narcissus, trapped by our ego in our own world. We create an illusion that inflates our own importance. Driven by the ego, we are often our worst enemy. We lose touch with the real world and tighten the shackles that would set us free. Instead, we need to redirect our psychic energy outward to others. “When attention is focused away from the self,” writes psychologist Mihaly Csikszentmihalyi, “frustrations of one’s desires have less of a chance to disrupt consciousness.”
 
 We cannot control our stream of thousands of thoughts every day. At times, they move us forward, at other times, they hinder. Unlike Narcissus, we need to keep our ego from tainting our quality of thinking. The ego is what drives this endless torture and isolation. The solution is to let go of things we cannot control and work with what we can.
-
-<img src="/media/challenge-self.jpg" />
 
 We need to consider material that contradicts how we see ourselves and the world. We need to kill our ego, or at least kick it off the throne it occupies in our life. Read what contradicts our bias and read outside of what we would normally would. Nobody is entitled to their view unless they also understand the opposite perspective.
 
