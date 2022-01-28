@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Fail Forward"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Fail Forward
 
 “I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeeded.”
 — Michael Jordan
@@ -23,8 +18,6 @@ I used to think that I would have all the answers in my head, or just by reading
 Like Edison, we have to see every failure as a lesson worth learning. We should analyze our mistakes and make sure we won’t repeat them again. The more we prototype, the more we can learn and find where we are wrong. The faster we can do that, the better. Tom Chi, formerly of Google X, refers to this as rapid prototyping, which increases your rate of learning by running experiments.
 
 It is important to stress how valuable getting feedback is for that. We should never quit, but that doesn’t mean that we need to bang our head against a wall. In theory, if after a while one experiment is not going anywhere, it is time to close the chapter and start another test. In practice, when do we know it is time to stop and try a different approach? It is not obvious without critical feedback.
-
-<img src="/media/fail-forward.jpg" />
 
 When young F. W. Woolworth worked as a store clerk, he was interested in improving the business. He approached his boss with feedback, asking him to make a ten-cent sale to reduce inventory. His boss agreed. It was a resounding success, but his boss remained skeptical. Maybe it was luck. Soon, Woolworth approached him again with a new idea, this time asking him for capital to open a store. This store would only sell five- and ten-cent items. His boss didn’t like the idea. He deemed it too risky. “There are not enough items to sell for five and ten cents,” he told him.
 
