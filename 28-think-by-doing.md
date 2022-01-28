@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Think By Doing"
-categories: essay
-tags: syrus thinking
----
+# Rule Over Self: Think By Doing
 
 “You need to avoid certain things in your train of thought: everything random, everything irrelevant. And certainly everything self-important or malicious.”
 — Marcus Aurelius
@@ -11,8 +6,6 @@ tags: syrus thinking
 A s a student of philosophy under Karl Popper at the London School of Economics, investor George Soros was very contemplative. Thinking played an important part in his life, but he didn’t know yet how to direct his thinking, so he wasted a lot of time replaying certain ideas in his head.
 
 As he started his career on Wall Street, he slowly realized that thinking is more useful when you also act. Once he discovered that he could learn more through action than contemplation, he leveraged his thinking.
-
-<img src="/media/think-by-doing.jpg" />
 
 In Soros on Soros he shared, “I became an active thinker where my thinking played a major role in deciding what actions to take and my actions play an important role in improving my thinking.”
 
