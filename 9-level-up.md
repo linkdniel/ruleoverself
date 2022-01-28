@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Level Up"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self: Level Up
 
 “I have no special talent. I am only passionately curious.”
 — Albert Einstein
@@ -17,8 +12,6 @@ Learning is the driver of growth. If we fail to grow, we stagnate and grow frust
 It’s imperative to build a feedback loop where we are constantly thinking about improving ourselves. Having a coach is an invaluable asset in providing those seeds for improvement. Our minds are incredibly powerful and deceptive. They can trick us into believing that we are making progress when we haven’t moved an inch. By having a coach, we have someone that we are accountable to. They are also a source of hope during struggling times when we are close to raising our white flag.
 
 For a long time, I had difficulty learning advanced computer programming. I would start, only to give up a couple of weeks or months later. Over time, I was upset that whenever I had a new idea, I was unable to prototype it. Computer programming still felt intimidating and impossible to do — and it felt that way even after taking online classes and attending hackathons. One day, I learned together with a friend, and the fact that I had someone that I was accountable to, even in a small way, tremendously helped me with keeping better track of my learning and ultimately accelerate it.
-
-<img src="/media/level-up.jpg" />
 
 As her 13th birthday present, Anne Frank was gifted a diary from her parents. At first, she began writing down her thoughts privately. Soon she started writing about her life, her family and friends, and their situation. She continued writing even when she was hiding with her family during Nazi occupation of the Netherlands. She wrote about the close relationship she had with her father, what she admired in her sister, and many other things that she felt she couldn’t share with anyone. The diary became a record of her growing up. It was a crucial tool to help her learn more about herself and her surroundings.
 
