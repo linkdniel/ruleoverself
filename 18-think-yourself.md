@@ -1,5 +1,5 @@
 # Rule Over Self: Think For Yourself
- 
+
 “The great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude."
 — Ralph Waldo Emerson
 
