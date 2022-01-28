@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Face Your Fears"
-categories: essay
-tags: syrus action
----
+# Rule Over Self: Face Your Fears
 
 “Life favors the specific ask and punishes the vague wish.”
 — Tim Ferriss
@@ -21,8 +16,6 @@ To plan for the endgame, you need to be what investor Peter Thiel calls a defini
 While interviewing Sebastian Thrun, who had worked on self-driving cars at Google X, he told me about Udacity, his startup that re-imagines the university model, offering an alternative with vocation-style courses. He had learned from Google co-founder Larry Page to aim high. I’ll never forget what he told me: “You might as well pick something big, because the amount of work you put in is the same that you put into something small.”
 
 To be a definite optimist, we need to be bold. It is not simply enough to have a plan. We also need to have the courage to follow through. If we shy away from what is difficult, someone else will take on that challenge. Learning to face the uncomfortable will expand our comfort zone exponentially.
-
-<img src="/media/face-fears.jpg" />
 
 When Philippe Petit was 16 years old, he discovered his passion for the high wire and incorporated it into his public performances in Paris. With every performance, he became more audacious. In 1971, Petit walked between the towers of the Notre Dame Cathedral, and two years later he crossed the Sydney Harbor Bridge. His biggest coup? In 1974, he walked on a high wire, 1,300 feet above the ground, that he had suspended between the two towers of the World Trade Center.
 
