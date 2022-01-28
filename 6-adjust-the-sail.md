@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Adjust the Sail"
-categories: essay
-tags: syrus learning
----
+# Rule Over Self - Adjust the Sail
 
 “Being truthful is essential to being an independent thinker and obtaining a greater understanding of what is right.”
 — Ray Dalio
@@ -25,8 +20,6 @@ We compare ourselves to others and wonder why we can’t do what comes easy to t
 Often, we create a kind of virtual reality. We live in a bubble and look at the world through our biased lens. We forget what is happening around us and stay in denial about how things have changed. We have ideas in our head about reality, but forget that they are just ideas. We need to go out into the world and test our assumptions.
 
 Ego often stands in the way of seeing reality as it is. So we must not look at the world through our biased lens, but looking at the truth of the matter. We need to love the truth, whether or not it suits us. Ask yourself: what is it that you don’t know? If you know your limitations, you can adapt. If you are truthful and curious, you allow yourself to learn.
-
-<img src="/media/adjust-the-sail.jpg" />
 
 As hedge fund manager Ray Dalio writes, “Truth — more precisely, an accurate understanding of reality — is the essential foundation for producing good outcomes.”
 
